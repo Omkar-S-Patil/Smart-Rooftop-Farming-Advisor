@@ -6,4 +6,4 @@ joblib
 Pillow
 requests
 xgboost
-tensorflow
+tensorflow-cpu
